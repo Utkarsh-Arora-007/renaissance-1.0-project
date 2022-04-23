@@ -28,9 +28,7 @@ https://github.com/Utkarsh-Arora-007/renaissance-1.0-project
 
 https://drive.google.com/drive/folders/1Y5TTZUK3BM5P2Vx_BjMuBYaqH8biU8JK?usp=sharing
 
-## Website Deployment Link
 
-https://anvansh.pythonanywhere.com/
 ## Contributors
 * [Shivendu](https://github.com/shivenducs1136)
 * [Yashasvi](https://github.com/11-yashasvi)
