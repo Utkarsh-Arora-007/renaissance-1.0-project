@@ -23,7 +23,7 @@ https://youtu.be/nHhURIe26mk
 
 ## Github Repository Link (App)
 
-https://github.com/shivenducs1136/helpu
+https://github.com/Utkarsh-Arora-007/renaissance-1.0-project
 
 ## App Link
 
@@ -34,9 +34,9 @@ https://drive.google.com/drive/folders/1Y5TTZUK3BM5P2Vx_BjMuBYaqH8biU8JK?usp=sha
 https://anvansh.pythonanywhere.com/
 ## Contributors
 * [Shivendu](https://github.com/shivenducs1136)
-* [Ananya](https://github.com/ananyapunia28)
+* [Yashasvi](https://github.com/11-yashasvi)
 * [Utkarsh](https://github.com/Utkarsh-Arora-007)
-* [Anvansh](https://github.com/RyanWalker277)
+* [Siddharth](https://github.com/why-sid)
 
 	
 <p align="center">
